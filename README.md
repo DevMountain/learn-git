@@ -16,3 +16,4 @@ Contributors:
 * Matthew Mecham
 * Patrick Ewing
 * Brenan Klain
+* Nathan Hanna
