@@ -17,3 +17,4 @@ Contributors:
 * Patrick Ewing
 * Brenan Klain
 * Nathan Hanna
+* Colton Malone
