@@ -10,3 +10,4 @@ Welcome to the repo!
 
 Contributors:
 * Cahlan Sharp
+* Tyler Pexton
