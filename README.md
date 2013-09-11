@@ -14,3 +14,5 @@ Contributors:
 * Britton Stanfill
 * Emily Hoehne
 * Matthew Mecham
+* Patrick Ewing
+* Brenan Klain
