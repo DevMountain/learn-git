@@ -1,7 +1,5 @@
 learn-git
 
-THIS REPOSITORY IS AWESOMEEEEEE
-
 =========
 
 Just a basic repository for learning git.
