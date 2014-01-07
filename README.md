@@ -10,11 +10,3 @@ Welcome to the repo!
 
 Contributors:
 * Cahlan Sharp
-* Tyler Pexton
-* Britton Stanfill
-* Emily Hoehne
-* Matthew Mecham
-* Patrick Ewing
-* Brenan Klain
-* Nathan Hanna
-* Colton Malone
