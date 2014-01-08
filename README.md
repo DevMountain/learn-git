@@ -7,3 +7,4 @@ Welcome to the repo!
 
 Contributors:
 * Cahlan Sharp
+* Wesley Moss
