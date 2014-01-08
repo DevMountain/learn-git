@@ -7,6 +7,7 @@ Welcome to the repo!
 
 Contributors:
 * Cahlan Sharp
+* Wesley Moss
 * Greg Roberts
 * Miles Victors
 * David Hugentobler
