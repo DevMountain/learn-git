@@ -7,5 +7,6 @@ Welcome to the repo!
 
 Contributors:
 * Cahlan Sharp
+* Miles Victors
 * David Hugentobler
 * Alden Aikele
