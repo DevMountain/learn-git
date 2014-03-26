@@ -13,3 +13,4 @@ Contributors:
 * David Hugentobler
 * Alden Aikele
 * Rachel Wolthuis
+* Lewis Smith
