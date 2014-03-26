@@ -17,3 +17,4 @@ Contributors:
 * Lewis Smith
 * Nathan Archibald
 * Matt Hopkins
+* Andrew Thomas
