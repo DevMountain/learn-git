@@ -14,3 +14,4 @@ Contributors:
 * Alden Aikele
 * Rachel Wolthuis
 * Alex Robinson
+* Lewis Smith
