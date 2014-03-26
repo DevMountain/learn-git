@@ -16,3 +16,4 @@ Contributors:
 * Alex Robinson
 * Lewis Smith
 * Nathan Archibald
+* Matt Hopkins
