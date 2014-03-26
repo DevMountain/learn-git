@@ -19,3 +19,4 @@ Contributors:
 * Matt Hopkins
 * Andrew Thomas
 * Alessandro Improta
+* Brian Son
