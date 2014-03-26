@@ -18,3 +18,4 @@ Contributors:
 * Nathan Archibald
 * Matt Hopkins
 * Andrew Thomas
+* Alessandro Improta
