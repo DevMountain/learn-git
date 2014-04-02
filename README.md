@@ -20,3 +20,4 @@ Contributors:
 * Andrew Thomas
 * Alessandro Improta
 * Brian Son
+* Erin Lyman
