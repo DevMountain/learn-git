@@ -21,3 +21,5 @@ Contributors:
 * Alessandro Improta
 * Brian Son
 * Erin Lyman
+* Jesse Mace
+
