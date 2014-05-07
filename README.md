@@ -25,3 +25,5 @@ Contributors:
 * Fumiko Richards
 * Jay Shelley
 * Paul Chatterton
+* Dantley Rogers
+
