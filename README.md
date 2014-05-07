@@ -22,4 +22,5 @@ Contributors:
 * Brian Son
 * Erin Lyman
 * Jesse Mace
+* Fumiko Richards
 
