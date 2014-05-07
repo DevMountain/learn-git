@@ -23,4 +23,5 @@ Contributors:
 * Erin Lyman
 * Jesse Mace
 * Fumiko Richards
+* Jay Shelley
 
