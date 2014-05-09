@@ -29,3 +29,4 @@ Contributors:
 * Danaan Clarke
 * Houston Warnick
 * Michael Wilson
+* Kristi Madsen
