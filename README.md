@@ -34,3 +34,4 @@ Contributors:
 * Amy-Kate Andrews
 * Caleb Guanzon
 * Kellee Martins
+* Jamie Titensor
