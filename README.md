@@ -11,9 +11,6 @@ Contributors:
 * Greg Roberts
 * Miles Victors
 * David Hugentobler
-<<<<<<< HEAD
-* this was already in my GitHub
-=======
 * Alden Aikele
 * Rachel Wolthuis
 * Alex Robinson
@@ -38,5 +35,4 @@ Contributors:
 * Caleb Guanzon
 * Kellee Martins
 * Jamie Titensor
-* MY NAME HERE
->>>>>>> 0c1928ed9ee407f7973fc0826b9a6946fe322925
+* David Hugentobler II
