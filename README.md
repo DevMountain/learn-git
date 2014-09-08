@@ -36,9 +36,7 @@ Contributors:
 * Caleb Guanzon
 * Kellee Martins
 * Jamie Titensor
-<<<<<<< HEAD
 * Brock Neilson
 * Larry Miller
-=======
 * PJ Targun
->>>>>>> f2458ce0831d7e0194081498e1f171bed46e93e7
+* David Hugentobler II
