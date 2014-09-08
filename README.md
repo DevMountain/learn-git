@@ -52,3 +52,4 @@ Contributors:
 * mariah carey
 * Aaron Rumery
 * Corey Trampe
+* Thad Rigby
