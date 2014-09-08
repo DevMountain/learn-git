@@ -47,3 +47,4 @@ Contributors:
 * Kory Sumsion
 * Skyler Blood
 * Fernanda Silva
+* Zac Gorringe
