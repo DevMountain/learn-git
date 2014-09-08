@@ -37,4 +37,4 @@ Contributors:
 * Kellee Martins
 * Jamie Titensor
 * Brock Neilson
-* MY NAME HERE
+* Larry Miller
