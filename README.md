@@ -51,3 +51,4 @@ Contributors:
 * Schuyler Madsen
 * mariah carey
 * Aaron Rumery
+* Corey Trampe
