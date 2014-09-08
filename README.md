@@ -32,6 +32,7 @@ Contributors:
 * Kristi Madsen
 * Jake Overall
 * Amy-Kate Andrews
+* Jess Haddow
 * Caleb Guanzon
 * Kellee Martins
 * Jamie Titensor
