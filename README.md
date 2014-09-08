@@ -44,3 +44,4 @@ Contributors:
 * Mark Tonkinson
 * Daniel Kesler
 * Jason Turner
+* Kory Sumsion
