@@ -48,3 +48,4 @@ Contributors:
 * Skyler Blood
 * Fernanda Silva
 * Zac Gorringe
+* Schuyler Madsen
