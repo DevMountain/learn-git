@@ -1,1 +1,1 @@
-Elmo says, “Hello world!”
+“Hello world!”
