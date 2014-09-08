@@ -35,4 +35,5 @@ Contributors:
 * Caleb Guanzon
 * Kellee Martins
 * Jamie Titensor
-* MY NAME HERE
+* Kory Sumsion
+* Kory Sumsion
