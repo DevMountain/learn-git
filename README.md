@@ -68,3 +68,4 @@ Contributors:
 * Maria Ang
 * Joshua Smith
 * Chris Duran
+* Janean Parker
