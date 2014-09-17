@@ -58,3 +58,4 @@ Contributors:
 * MetaSean
 * Jeimi Woffinden
 * Devin Olsen
+* Peggy Paget
