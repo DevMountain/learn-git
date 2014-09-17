@@ -95,3 +95,5 @@ Contributors:
 * Wesley Hodges
 * New Person
 * Trent Hirschi
+* Josh LeDuc
+
