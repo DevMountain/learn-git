@@ -55,5 +55,5 @@ Contributors:
 * Thad Rigby
 * Justin Tafoya
 * Fake Name
-* Cahlan Sharpasdf
-;asdfk;asdfljkasdjklfjaklsdjfkl
+* MetaSean
+* Jeimi Woffinden
