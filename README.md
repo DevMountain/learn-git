@@ -67,3 +67,4 @@ Contributors:
 * Josh Butler
 * Maria Ang
 * Joshua Smith
+* Chris Duran
