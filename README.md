@@ -84,4 +84,5 @@ Contributors:
 * Barack Obama
 * Jonathan Aaron
 * Matt Higbee
+* Bryce Hatch
 
