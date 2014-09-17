@@ -74,3 +74,5 @@ Contributors:
 * Kelsey Jacobsen
 * Joe Hampton
 * Andrew Heidebrecht
+* Devin Eror
+
