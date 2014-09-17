@@ -66,3 +66,4 @@ Contributors:
 * Master and Commander
 * Josh Butler
 * Maria Ang
+* Joshua Smith
