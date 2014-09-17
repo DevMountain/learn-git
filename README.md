@@ -87,3 +87,5 @@ Contributors:
 * Bryce Hatch
 * Rowan Doutre Jones
 * Spencer Wise
+* Katie Christiansen
+
