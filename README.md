@@ -32,6 +32,29 @@ Contributors:
 * Kristi Madsen
 * Jake Overall
 * Amy-Kate Andrews
+* Jess Haddow
 * Caleb Guanzon
 * Kellee Martins
 * Jamie Titensor
+* Brock Neilson
+* Larry Miller
+* PJ Targun
+* David Hugentobler II
+* Jacob Turner
+* Mark Tonkinson
+* Daniel Kesler
+* Jason Turner
+* Kory Sumsion
+* Skyler Blood
+* Fernanda Silva
+* Zac Gorringe
+* Schuyler Madsen
+* mariah carey
+* Aaron Rumery
+* Corey Trampe
+* Thad Rigby
+* Justin Tafoya
+* Fake Name
+* MetaSean
+* Jeimi Woffinden
+
