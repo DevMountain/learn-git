@@ -56,3 +56,4 @@ Contributors:
 * Justin Tafoya
 * Fake Name
 * MetaSean
+* Chris Duran
