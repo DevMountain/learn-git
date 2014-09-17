@@ -94,3 +94,4 @@ Contributors:
 * Keegan Jackson
 * Wesley Hodges
 * New Person
+* Trent Hirschi
