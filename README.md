@@ -59,3 +59,4 @@ Contributors:
 * Jeimi Woffinden
 * Devin Olsen
 * Peggy Paget
+* Mitch Dumke
