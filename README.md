@@ -76,3 +76,4 @@ Contributors:
 * Andrew Heidebrecht
 * Devin Eror
 * Jeramy Wakley
+* David Stauffer
