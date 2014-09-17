@@ -71,3 +71,4 @@ Contributors:
 * Janean Parker
 * Houston Holt
 * Ben Ang-Bejar
+* Kelsey Jacobsen
