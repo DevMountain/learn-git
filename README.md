@@ -77,3 +77,4 @@ Contributors:
 * Devin Eror
 * Jeramy Wakley
 * David Stauffer
+* Jeimi Woffinden
