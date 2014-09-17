@@ -80,4 +80,5 @@ Contributors:
 * Jeimi Woffinden
 * Devin Zohner
 * Peter Johnson
-
+* Brennan Knotts
+* Barack Obama
