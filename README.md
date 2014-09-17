@@ -79,4 +79,5 @@ Contributors:
 * David Stauffer
 * Jeimi Woffinden
 * Devin Zohner
+* Peter Johnson
 
