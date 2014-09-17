@@ -86,3 +86,4 @@ Contributors:
 * Matt Higbee
 * Bryce Hatch
 * Rowan Doutre Jones
+* Spencer Wise
