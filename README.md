@@ -11,5 +11,5 @@ learn-git
 ##Mini-Project 2: DevMountain Project
 ### Step 1: 
 
-##Mini-Project 2: Group Project
+##Mini-Project 3: Group Project
 ### Step 1: 
