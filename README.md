@@ -8,11 +8,23 @@ learn-git
 ##Mini-Project 1: Personal Project
 ### Step 1: Create a Repository on Github
 * Let's  jump ahead a month or two and pretend like we just got to personal project periods. Because you're not an idiot, you're going to be pushing your code up to github frequently. In order to do that, you first need to create a repository on github to push to. Head over to your github account then in the top right hand corner click the '+' button and click 'new repository'. Enter the name of your repository then click 'Create Repository'. This repository is where your code for this project will now live.
-### Step 2: Set up the Upstream
+
+### Step 2: Set up the Origin
 * Once you create your repository, you'll need to connect that repository with your code on your computer. 
 * Create a folder called 'myProject' then inside that folder create a file called 'myName.js'. Add your name to that file and then save it. 
 * Now in your terminal navigate to your 'myProject' folder. Once inside that folder, type ```git init```. You've just told your computer that you want git to watch the 'myProject' folder and keep track of any changes - basically making it so you can now run git commands inside of this folder. 
-* Now that you've initialzied your 'myProject' folder, we need to tell your computer where the location of your github repository is. To do this you create what is called an 'upstream'. 
+* Now that you've initialzied your 'myProject' folder, we need to tell your computer where the location of your github repository is. To do this you create what is called a remote. Basically we tell our computer 'Hey computer, I created this repo on github, when I push, I want my code to go to this github repo'. To do this, in your terminal type ```git remote add origin https://github.com/nameOfYourRepo.git``` with nameOfYourRepo being replaced with what you named your repository. Now whenever you run ```git push origin master``` your computer knows that origin is pointing to your repo you made on github and it pushes your changes there.
+* Now that our remote is set up. You'll need to add your files to the staging area, commit your files to be ready for pushing, then push your files. The process I always take is one that looks like this.
+* ```git status``` --> this will show me what files have been changes. I want to make sure not to add any files to github that I don't want there
+* ```git diff``` this will show me the actual code that has been changed. Again, I want to make sure I don't push anything to github that shouldn't be there
+* If everything looks good ```git add nameOfMyFile.js``` I add my file(s) to the 'staging area'
+* ```git commit -m "The sentence I want associated with this commit message``` which tells my computer 'hey, next time code is pushed to github, take all of this code with it.
+* ```git push origin master``` and MAGIC. My code is now on github.
+
+### Step 3: Push your code to github
+* Follow the steps I did above in order to get your new code on your computer up to your github repository.
+* If all goes well, check your github repository for your new code.
+
 
 ##Mini-Project 2: DevMountain Project
 ### Step 1: 
