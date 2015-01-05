@@ -1,4 +1,4 @@
-"Michael Telford"
+"Michael Telford - DevMountain"
 
 learn-git
 =========
