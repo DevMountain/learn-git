@@ -1,2 +1,4 @@
 “Hello world!”
 console.log("I love to dance!");
+
+Food is delicious!
