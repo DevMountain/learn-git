@@ -46,12 +46,12 @@ learn-git
 
 ###Learning Objectives. 
 * After finishing this repository you should feel comfortable with the following list, if you're not, ask your mentor for more help. 
-*understand and be able to use the command line for
+* Understand and be able to use the command line for
   - creating a folder
   - creating a file
   - editing a file
   - changing directories
-*understand what Git and Github are and how they fit into the web app landscape
+* Understand what Git and Github are and how they fit into the web app landscape
   - be able to Fork a repo and know it’s purpose
   - be able to clone a repo and know it’s purpose
   - be able to add, commit, and push files to github
