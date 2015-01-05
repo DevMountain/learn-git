@@ -1,6 +1,6 @@
 learn-git
 hello there 
-hell for part 3
+hello for part 3
 =========
 * This project will consist of three separate mini-projects to get you comfortable with the kinds of activities you'll be using git for throughout the class. 
 * The first mini-project you'll be mimicking the steps you'll take when you first start your personal project. Creating a repository, linking it to your computer, then pushing those changes up to your github.
