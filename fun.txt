@@ -2,3 +2,5 @@
 console.log("I love to dance!");
 
 Food is delicious!
+
+Eat all the food!
