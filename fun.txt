@@ -1,1 +1,6 @@
 “Hello world!”
+orange 
+banana
+apple
+:Bootup sequence
+:Start ze engines
