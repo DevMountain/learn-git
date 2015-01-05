@@ -1,3 +1,6 @@
 “Hello world!”
+lox 
+fish
+spam
 :Bootup sequence
 :Start ze engines
