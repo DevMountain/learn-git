@@ -1,2 +1,3 @@
 “Hello world!”
 "the world is a beautiful place"
+"Lets change this one more time for the 3rd mini project"
