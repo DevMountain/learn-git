@@ -7,7 +7,7 @@ learn-git
 
 ##Mini-Project 1: Personal Project
 ### Step 1: Create a Repository on Github
-* Let's  jump ahead a month or two and pretend like we just got to personal project periods. Because you're not an idiot, you're going to be pushing your code up to github frequently. In order to do that, you first need to create a repository on github to push to. Head over to your github account then in the top right hand corner click the '+' button and click 'new repository'. Enter the name of your repository then click 'Create Repository'. This repository is where your code for this project will now live.
+* Let's  jump ahead a month or two and pretend like we just got to personal project period. Because you're not an idiot, you're going to be pushing your code up to github frequently. In order to do that, you first need to create a repository on github to push to. Head over to your github account then in the top right hand corner click the '+' button and click 'new repository'. Enter the name of your repository then click 'Create Repository'. This repository is where your code for this project will now live.
 
 ### Step 2: Set up the Origin
 * Once you create your repository, you'll need to connect that repository with your code on your computer. 
