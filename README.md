@@ -1,7 +1,6 @@
 learn-git
 
-please accept this small change by Michael :)
-
+please accept this small change by Michael
 =========
 * This project will consist of three separate mini-projects to get you comfortable with the kinds of activities you'll be using git for throughout the class. 
 * The first mini-project you'll be mimicking the steps you'll take when you first start your personal project. Creating a repository, linking it to your computer, then pushing those changes up to your github.
@@ -46,7 +45,6 @@ please accept this small change by Michael :)
 
 ****If you see a typo or something that could be said more clearly, make a pull request. This goes for all the repositories and projects we do.****
 
-
 ###Learning Objectives. 
 * After finishing this repository you should feel comfortable with the following list, if you're not, ask your mentor for more help. 
 * Understand and be able to use the command line for
@@ -64,4 +62,7 @@ please accept this small change by Michael :)
   - be able to minimally manage vim to escape merge conflict messages
   - know how to make a Pull Request
   - be able to pull changes from the master repo
+
+
+Is this the change I'm looking for??????
 
