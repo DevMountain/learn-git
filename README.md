@@ -29,7 +29,7 @@ learn-git
 ##Mini-Project 2: DevMountain Project
 * Now what we're going to do is walk through how you would normally treat a project here from DevMountain. 
 
-### Step 1: For the Repo
+### Step 1: Fork the Repo
 First, you'll want to 'fork' this repo. On the top right of this page you should see a button that says 'fork'. What this is going to do is essentially copy all of the code from this repository, but make it as a repo under your account. As you can imagine, you can't push directly to the DevMtn repo because that's not secure. But what you can do is create a fork of this repo, then push to your own fork because it's under your own account.
 
 ### Step 2: Clone the Fork
