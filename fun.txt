@@ -1,1 +1,2 @@
-“Hello world!”
+﻿“Hello world!”
+This is kinda cool
