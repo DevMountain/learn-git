@@ -37,7 +37,10 @@ First, you'll want to 'fork' this repo. On the top right of this page you should
 * Once you've cloned your fork, open up your fork in Sublime Text and make a change. Once you've made a change head over to your terminal and type ```git status```, you should see that a file has been changed. If you see the file, run through the steps outlined in Mini-Project 1 (status, diff, add, commit, push). Note that when you run ```git push origin master``` in this repository origin is already pointing to your forked repo since you used ```git clone```. Unlike the last step you don't need to tell your computer where to push your code because git already knows.
 
 ##Mini-Project 3: Group Project
-* We're essentially going to redo all the same steps we did in Mini-Project 2, but add one more step. Re-clone your fork of this project to your local computer, make a change, add, commit, then push that change. If you go to your forked repo on github you should then see your change.
+* We're essentially going to redo all the same steps we did in Mini-Project 2, but add one more step.
+
+### Step 1:
+Re-clone your fork of this project to your local computer, make a change, add, commit, then push that change. If you go to your forked repo on github you should then see your change.
 
 ### Step 2: 
 * Let's imagine we're working in groups. If we have everyone pushing to one repo without verifying the quality of the code, things can get messy pretty quick. We fixed this solution with things called 'Pull Requests'. Basically you fork a project, make changes to your fork, then you make a pull request back into the original project requesting that some piece of code be added to the original repo. This is how open source projects work.
