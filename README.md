@@ -40,7 +40,7 @@ First, you'll want to 'fork' this repo. On the top right of this page you should
 * We're essentially going to redo all the same steps we did in Mini-Project 2, but add one more step.
 
 ### Step 1:
-Re-clone your fork of this project to your local computer, make a change, add, commit, then push that change. If you go to your forked repo on github you should then see your change.
+* Re-clone your fork of this project to your local computer, make a change, add, commit, then push that change. If you go to your forked repo on github you should then see your change.
 
 ### Step 2: 
 * Let's imagine we're working in groups. If we have everyone pushing to one repo without verifying the quality of the code, things can get messy pretty quick. We fixed this solution with things called 'Pull Requests'. Basically you fork a project, make changes to your fork, then you make a pull request back into the original project requesting that some piece of code be added to the original repo. This is how open source projects work.
