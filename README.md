@@ -18,7 +18,7 @@ learn-git
 * ```git status``` --> this will show me what files have been changes. I want to make sure not to add any files to github that I don't want there
 * ```git diff``` this will show me the actual code that has been changed. Again, I want to make sure I don't push anything to github that shouldn't be there
 * If everything looks good ```git add nameOfMyFile.js``` I add my file(s) to the 'staging area'
-* ```git commit -m "The sentence I want associated with this commit message``` which tells my computer 'hey, next time code is pushed to github, take all of this code with it.
+* ```git commit -m "The sentence I want associated with this commit message"``` which tells my computer 'hey, next time code is pushed to github, take all of this code with it.
 * ```git push origin master``` and MAGIC. My code is now on github.
 
 ### Step 3: Push your code to github
