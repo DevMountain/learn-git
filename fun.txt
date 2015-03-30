@@ -1,2 +1,3 @@
 “Hello world!” -no one said that
 var name = "Names are cool";
+var newName = "What name should I chose now?";
