@@ -2,3 +2,5 @@ var name = "Briant Diehl";
 alert(name);
 
 var age = 25;
+
+var arr =[0, 1, 2]
