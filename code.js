@@ -1,2 +1,5 @@
-var myName = "Dag";
-alert(myName);
+var myFirstName = "Dag";
+var myLastName = "Bunkholt";
+alert(myFirstName + myLastName);
+
+
