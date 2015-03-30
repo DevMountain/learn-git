@@ -1,3 +1,8 @@
 “Hello world, my name is Jordan Jemison!” -no one said that
 
+
 Why is this not showing up?
+
+This is for mini-project 3: Group Project
+
+Merge this and this! 
