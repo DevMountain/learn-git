@@ -53,7 +53,7 @@ First, you'll want to 'fork' this repo. On the top right of this page you should
 ****If you see a typo or something that could be said more clearly, make a pull request. This goes for all the repositories and projects we do.****
 
 
-###Learning Objectives. 
+##Learning Objectives. 
 * After finishing this repository you should feel comfortable with the following list, if you're not, ask your mentor for more help. 
 * Understand and be able to use the command line for
   - creating a folder
