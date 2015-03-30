@@ -5,7 +5,7 @@ learn-git!
 * The second mini-project you'll be mimicking the steps you'll take with every DevMountain project you do. You'll 'fork' the DevMountain repository, link your computer with your fork, then pushing those changes up to your github.
 * The last mini-project you'll be mimicking the steps you'll take when it's group project period. You'll fork your groups repo, link your computer with your fork, push changes to your github, then make a 'Pull Request' into your groups repo.
 
-##Mini-Project 1: Personal Project
+##Mini-Project 1: Personal Project ayyyyyyyyyyyyyy
 ### Step 1: Create a Repository on Github
 * Let's  jump ahead a month or two and pretend like we just got to personal project period. Because you're not an idiot, you're going to be pushing your code up to github frequently. In order to do that, you first need to create a repository on github to push to. Head over to your github account then in the top right hand corner click the '+' button and click 'new repository'. Enter the name of your repository then click 'Create Repository'. This repository is where your code for this project will now live.
 
