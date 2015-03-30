@@ -1,1 +1,16 @@
-“Hello world!” -no one said that
+“Hello world, my name is Jordan Jemison!” -no one said that
+
+
+Why is this not showing up?
+
+This is for mini-project 3: Group Project
+
+Merge this and this! 
+
+This is the third time
+
+fun fun
+
+jordan this is your final pull request
+
+work work 
