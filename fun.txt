@@ -1,2 +1,4 @@
 var name = "Briant Diehl";
 alert(name);
+
+var age = 25;
