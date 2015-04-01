@@ -1,1 +1,2 @@
 “Hello world!” -The most used line in tutorial history.
+I prefer "Hello universe!" -just in case aliens will ever read my programs.
