@@ -1,0 +1,44 @@
+----------------------------
+ Week 1 | Day 1 - Learn Git
+----------------------------
+- centralized 
+- feature branch 
+- gitflow
+- forking
+ 
+ pwd - print working directory 
+ cd -  change directory
+ mkdir - make folder
+ rm - removoe folder
+ rm -rf 
+ ls -a shows hidden file
+ ls -la shows all hidden files
+ sudo - super user do
+ ls -l print all
+ vi nameOfFile - enter file with vim through terminal 
+ 	i - instert
+ 	esc - get out of edit mode
+ 	:wq - (exit write quit)vim command state
+
+git config --list
+git init = monitor folder	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
