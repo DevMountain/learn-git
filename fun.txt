@@ -1,1 +1,1 @@
-“Hello world!” -no one said that
+“Hello world!” - is the beginning of all programming.
