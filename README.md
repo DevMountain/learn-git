@@ -45,7 +45,7 @@ First, you'll want to 'fork' this repo. On the top right of this page you should
 * Now, I should see your pull request and I can decide if I want to add that code into the main project or not.
 
 
-****If you see a typo or something that could be said more clearly, make a pull request. This goes for all the repositories and projects we do.****
+****If you see a typo or something that could be stated more clearly, make a pull request. This goes for all the repositories and projects we do.****
 
 
 ###Learning Objectives. 
