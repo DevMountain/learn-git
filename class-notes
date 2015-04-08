@@ -24,9 +24,15 @@ git config --list
 git init = monitor folder	
 
 
+Fork A Repo
+-------------
+1. Fork the repo in github so that you have a version of the repo in your git hub and so that you can push it to the origin (to the repo)
 
+2. git clone the repo so that you have a version of the repo locally
 
+3. Now you will be able to push changes to the repo
 
+4. Make a pull request from your version of the repo to the origal repo from where you forked.
 
 
 
