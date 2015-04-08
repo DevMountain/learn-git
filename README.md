@@ -7,7 +7,7 @@ learn-git!
 
 ##Mini-Project 1: Personal Project
 ### Step 1: Create a Repository on Github
-* Let's  jump ahead a month or two and pretend like we just got to personal project period. Because you're not an idiot, you're going to be pushing your code up to github frequently. In order to do that, you first need to create a repository on github to push to. Head over to your github account then in the top right hand corner click the '+' button and click 'new repository'. Enter the name of your repository then click 'Create Repository'. This repository is where your code for this project will now live.
+* Let's  jump ahead a month or two and pretend like we just got to personal project period. Because you're not an idiot, you're going to be pushing your code up to github frequently. In order to do that, you first need to create a repository on github to push to. Head over to your github account then in the top right hand corner click the '+' button and click 'new repository'. Enter the name of your repository then click 'Create Repository'. Check the box that says 'initialize readme'.  This repository is where your code for this project will now live.
 
 ### Step 2: Set up the Origin
 * Once you create your repository, you'll need to connect that repository with your code on your computer. 
@@ -38,9 +38,11 @@ First, you'll want to 'fork' this repo. On the top right of this page you should
 
 ##Mini-Project 3: Group Project
 * We're essentially going to redo all the same steps we did in Mini-Project 2, but add one more step. Re-clone your fork of this project to your local computer, make a change, add, commit, then push that change. If you go to your forked repo on github you should then see your change. 
-### Step 2: 
+###
+ Step 2: 
 * Let's imagine we're working in groups. If we have everyone pushing to one repo without verifying the quality of the code, things can get messy pretty quick. We fixed this solution with things called 'Pull Requests'. Basically you fork a project, make changes to your fork, then you make a pull request back into the original project requesting that some piece of code be added to the original repo. This is how open source projects work.
-### Step 3: Make the PR
+### 
+Step 3: Make the PR
 * Go to your forked repo and click where it says 'Pull Request'. It should show you the file changes you've made and how they differ from the original repo. If it does, click on the submit button to submit your pull request. 
 * Now, I should see your pull request and I can decide if I want to add that code into the main project or not.
 
