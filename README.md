@@ -15,10 +15,10 @@ learn-git!
 * Now in your terminal navigate to your 'myProject' folder. Once inside that folder, type ```git init```. You've just told your computer that you want git to watch the 'myProject' folder and keep track of any changes - basically making it so you can now run git commands inside of this folder. 
 * Now that you've initialized your 'myProject' folder, we need to tell your computer where the location of your github repository is. To do this you create what is called a remote. Basically we tell our computer 'Hey computer, I created this repo on github, when I push, I want my code to go to this github repo'. To do this, in your terminal type ```git remote add origin https://github.com/nameOfYourRepo.git``` with nameOfYourRepo being replaced with what you named your repository. Now whenever you run ```git push origin master``` your computer knows that origin is pointing to your repo you made on github and it pushes your changes there.
 * Now that our remote is set up. You'll need to add your files to the staging area, commit your files to be ready for pushing, then push your files. The process I always take is one that looks like this.
-* ```git status``` --> this will show me what files have been changes. I want to make sure not to add any files to github that I don't want there
+* ```git status``` --> this will show me what files have been changed. I want to make sure not to add any files to github that I don't want there
 * ```git diff``` this will show me the actual code that has been changed. Again, I want to make sure I don't push anything to github that shouldn't be there
 * If everything looks good ```git add nameOfMyFile.js``` I add my file(s) to the 'staging area'
-* ```git commit -m "The sentence I want associated with this commit message``` which tells my computer 'hey, next time code is pushed to github, take all of this code with it.
+* ```git commit -m "The sentence I want associated with this commit message"``` which tells my computer 'hey, next time code is pushed to github, take all of this code with it.
 * ```git push origin master``` and MAGIC. My code is now on github.
 
 ### Step 3: Push your code to github
@@ -33,7 +33,7 @@ learn-git!
 First, you'll want to 'fork' this repo. On the top right of this page you should see a button that says 'fork'. What this is going to do is essentially copy all of the code from this repository, but make it as a repo under your account. As you can imagine, you can't push directly to the DevMtn repo because that's not secure. But what you can do is create a fork of this repo, then push to your own fork because it's under your own account.
 
 ### Step 2: Clone the Fork
-* Once you've forked this repo, you're going to want to clone your forked repository. Go to your freshly forked page and copy the url that's on the side under where it says "HTTPS clone URL". Then, head over to your terminal and type ```git clone pasteTheUrlHere```. This takes what's on github, and essentially downloads it so you can now make changes to it on your local computer.or
+* Once you've forked this repo, you're going to want to clone your forked repository. Go to your freshly forked page and copy the url that's on the side under where it says "HTTPS clone URL". Then, head over to your terminal and type ```git clone pasteTheUrlHere```. This takes what's on github, and essentially downloads it so you can now make changes to it on your local computer.
 * Once you've cloned your fork, open up your fork in Sublime Text and make a change. Once you've made a change head over to your terminal and type ```git status```, you should see that a file has been changed. If you see the file, run through the steps outlined in Mini-Project 1 (status, diff, add, commit, push). Note that when you run ```git push origin master``` in this repository origin is already pointing to your forked repo since you used ```git clone```. Unlike the last step you don't need to tell your computer where to push your code because git already knows.
 
 ##Mini-Project 3: Group Project
