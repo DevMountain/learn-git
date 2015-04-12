@@ -34,6 +34,9 @@ Fork A Repo
 
 4. Make a pull request from your version of the repo to the origal repo from where you forked.
 
+Rebase
+-------
+This will pull master but keep your changes and rebase to a new peek.
 
 
 
