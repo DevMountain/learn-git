@@ -19,6 +19,8 @@
  	i - instert
  	esc - get out of edit mode
  	:wq - (exit write quit)vim command state
+ 	git config --global credential.helper osxkeychain for password.
+ 	$ git config --global alias.unstage 'reset HEAD --'
 
 git config --list
 git init = monitor folder	
