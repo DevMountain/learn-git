@@ -14,7 +14,7 @@ learn-git!
 * Create a folder called 'myProject' then inside that folder create a file called 'myName.js'. Add your name to that file and then save it. 
 * Now in your terminal navigate to your 'myProject' folder. Once inside that folder, type ```git init```. You've just told your computer that you want git to watch the 'myProject' folder and keep track of any changes - basically making it so you can now run git commands inside of this folder. 
 * Now that you've initialized your 'myProject' folder, we need to tell your computer where the location of your github repository is. To do this you create what is called a remote. Basically we tell our computer 'Hey computer, I created this repo
- on github, when I push, I want my code to go to this github repo'. To do this, in your terminal type ```git remote add origin https://github.com/nameOfYourRepo.git``` with nameOfYourRepo being replaced with what you named your repository. Now whenever you run ```git push origin master``` your computer knows that origin is pointing to your repo you made on github and it pushes your changes there. 
+ on github, when I push, I want my code to go to this github repo'. To do this, in your terminal type ```git remote add origin https://github.com/yourUsername/nameOfYourRepo.git``` with nameOfYourRepo being replaced with what you named your repository. Now whenever you run ```git push origin master``` your computer knows that origin is pointing to your repo you made on github and it pushes your changes there. 
 
 ### Step 3: Push your code to github
 Now that our remote is set up. You'll need to add your files to the staging area, commit your files to be ready for pushing, then push your files. 
