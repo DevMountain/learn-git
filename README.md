@@ -1,4 +1,4 @@
-learn-git!
+learn-git?
 =========
 * This project will consist of three separate mini-projects to get you comfortable with the kinds of activities you'll be using git for throughout the class. 
 * The first mini-project you'll be mimicking the steps you'll take when you first start your personal project. Creating a repository, linking it to your computer, then pushing those changes up to your github.
@@ -33,7 +33,7 @@ The process I always take is one that looks like this:
 ##Mini-Project 2: DevMountain Project
 * Now what we're going to do is walk through how you would normally treat a project here from DevMountain. 
 
-### Step 1: Fork the Repo
+### Step 1: Fork the Repo!
 First, you'll want to 'fork' this repo. On the top right of this page you should see a button that says 'fork'. What this is going to do is essentially copy all of the code from this repository, but make it as a repo under your account. As you can imagine, you can't push directly to the DevMtn repo because that's not secure. But what you can do is create a fork of this repo, then push to your own fork because it's under your own account.
 
 ### Step 2: Clone the Fork
@@ -74,5 +74,5 @@ First, you'll want to 'fork' this repo. On the top right of this page you should
   - be able to handle merge conflicts
   - be able to minimally manage vim to escape merge conflict messages
   - know how to make a Pull Request
-  - be able to pull changes from the master repo
+  - be able to pull changes from the master repo :)
 
