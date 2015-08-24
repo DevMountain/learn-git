@@ -1,1 +1,4 @@
-“Hello world!” - said everyone, always
+﻿“Hello world!” - said everyone, always
+This is a new line of text.
+I am adding this line to test the git diff command.
+I am going to do mini project 3 now.
