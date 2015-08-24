@@ -1,1 +1,3 @@
 My message.
+
+This message is for Mini-Project2.
