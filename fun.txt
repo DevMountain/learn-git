@@ -3,3 +3,5 @@
 “Learning is fun”
 
 “kinda”
+
+“I think i get it”
