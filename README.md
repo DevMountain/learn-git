@@ -51,7 +51,7 @@ First, you'll want to 'fork' this repo. On the top right of this page you should
 > Let's imagine we're working in groups. If we have everyone pushing to one repo without verifying the quality of the code, things can get messy pretty quick. We fixed this solution with things called 'Pull Requests'. Basically you fork a project, make changes to your fork, then you make a pull request back into the original project requesting that some piece of code be added to the original repo. This is how open source projects work.
 
 ### Step 2: Make the PR
-* Go to your forked repo and click where it says 'Pull Request'. It should show you the file changes you've made and how they differ from the original repo. If it does, click on the submit button to submit your pull request. 
+* Go to your forked repo and click where it says 'Pull Request' (not 'Pull Requests' at the very top). It should show you the file changes you've made and how they differ from the original repo. If it does, click on the 'Create pull request' button to submit your pull request. 
 * Now, I should see your pull request and I can decide if I want to add that code into the main project or not.
 
 
