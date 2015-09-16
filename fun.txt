@@ -1,2 +1,2 @@
 “Hello world!” - said everyone, always yes
-"then they ran because they could"
+"Do you accept my changes?"
