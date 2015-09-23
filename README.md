@@ -40,6 +40,8 @@ First, you'll want to 'fork' this repo. On the top right of this page you should
 * Once you've forked this repo, you're going to want to clone your forked repository. Go to your freshly forked page and copy the url that's on the side under where it says "HTTPS clone URL". Then, head over to your terminal and type ```git clone pasteTheUrlHere```. This takes what's on github, and essentially downloads it so you can now make changes to it on your local computer.
 * Once you've cloned your fork, open up your fork in Sublime Text and make a change. Once you've made a change head over to your terminal and type ```git status```, you should see that a file has been changed. If you see the file, run through the steps outlined in Mini-Project 1 (status, diff, add, commit, push). Note that when you run ```git push origin master``` in this repository origin is already pointing to your forked repo since you used ```git clone```. Unlike the last step you don't need to tell your computer where to push your code because git already knows.
 
+I HAVE CHANGED THIS RIGHT HERE.
+
 ##Mini-Project 3: Group Project
 * We're essentially going to redo all the same steps we did in Mini-Project 2, but add one more step. 
 
