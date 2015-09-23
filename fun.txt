@@ -1,3 +1,5 @@
 “Hello world!” - said everyone, always
 And they are right!
 So right!
+
+But what if they're wrong?

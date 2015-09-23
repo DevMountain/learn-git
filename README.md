@@ -78,3 +78,4 @@ I HAVE CHANGED THIS RIGHT HERE.
   - know how to make a Pull Request
   - be able to pull changes from the master repo
 
+AND NOW I HAVE ADDED THIS LINE!
