@@ -44,7 +44,7 @@ First, you'll want to 'fork' this repo. On the top right of this page you should
 * We're essentially going to redo all the same steps we did in Mini-Project 2, but add one more step. 
 
 ### Step 1: Re-clone Your Fork
-* Re-clone your fork of this project to your local computer, make a change, add, commit, then push that change. 
+* Re-clone your fork of this project to your local computer in a different directory location. Open the fun.txt document from the new clone, make a change, add, commit, then push that change. 
 
 * Go to your forked repo on github and verify your change is there. 
 
