@@ -1,1 +1,5 @@
 “Hello world!” - said everyone, always
+
+We are awesome!
+
+Indeed we are
