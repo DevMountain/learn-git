@@ -7,14 +7,14 @@ learn-git!
 
 ##Mini-Project 1: Personal Project
 ### Step 1: Create a Repository on Github
-* Let's  jump ahead a month or two and pretend like we just got to personal project period. Because you're not an idiot, you're going to be pushing your code up to github frequently. In order to do that, you first need to create a repository on github to push to. Head over to your github account then in the top right hand corner click the '+' button and click 'new repository'. Enter the name of your repository then click 'Create Repository'. This repository is where your code for this project will now live.
+* Let's  jump ahead a month or two and pretend like we just got to personal project period. You're going to be pushing your code up to github frequently. In order to do that, you first need to create a repository on github to push to. Head over to your github account then in the top right hand corner click the '+' button and click 'new repository'. Enter the name of your repository then click 'Create Repository'. This repository is where your code for this project will now live.
 
 ### Step 2: Set up the Origin
 * Once you create your repository, you'll need to connect that repository with your code on your computer. 
 * Create a folder called 'myProject' then inside that folder create a file called 'myName.js'. Add your name to that file and then save it. 
-* Now in your terminal navigate to your 'myProject' folder. Once inside that folder, type ```git init```. You've just told your computer that you want git to watch the 'myProject' folder and keep track of any changes - basically making it so you can now run git commands inside of this folder. 
+* Now in your terminal navigate to your 'myProject' folder. Once inside that folder, type ```git init```. You've just told your computer that you want git to watch the 'myProject' folder and keep track of any changes - basically making it so you can now run git commands inside of this folder.  (Warning:  Be very careful to make sure you're in the right directory when you do git init! )
 * Now that you've initialized your 'myProject' folder, we need to tell your computer where the location of your github repository is. To do this you create what is called a remote. Basically we tell our computer 'Hey computer, I created this repo
- on github, when I push, I want my code to go to this github repo'. To do this, in your terminal type ```git remote add origin https://github.com/nameOfYourRepo.git``` with nameOfYourRepo being replaced with what you named your repository. Now whenever you run ```git push origin master``` your computer knows that origin is pointing to your repo you made on github and it pushes your changes there. 
+ on github, when I push, I want my code to go to this github repo'. To do this, in your terminal type ```git remote add origin [Repository URL]``` with [Repository URL] being replaced.  To get the url open the repository you made in step 1, in the browser.  Then copy the url out of the address bar. Now whenever you run ```git push origin master``` your computer knows that origin is pointing to your repo you made on github and it pushes your changes there. 
 
 ### Step 3: Push your code to github
 Now that our remote is set up. You'll need to add your files to the staging area, commit your files to be ready for pushing, then push your files. 
@@ -34,7 +34,7 @@ The process I always take is one that looks like this:
 * Now what we're going to do is walk through how you would normally treat a project here from DevMountain. 
 
 ### Step 1: Fork the Repo
-First, you'll want to 'fork' this repo. On the top right of this page you should see a button that says 'fork'. What this is going to do is essentially copy all of the code from this repository, but make it as a repo under your account. As you can imagine, you can't push directly to the DevMtn repo because that's not secure. But what you can do is create a fork of this repo, then push to your own fork because it's under your own account.
+First, you'll want to 'fork' this repo. On the top right of this page you should see a button that says 'fork'. What this is going to do is essentially copy all of the code from this repository, but make it as a repo under your account. As you can imagine, you can't push directly to the DevMtn repo because that would not secure for DevMtn. But what you can do is create a fork of this repo, then push to your own fork because it's under your own account.
 
 ### Step 2: Clone the Fork
 * Once you've forked this repo, you're going to want to clone your forked repository. Go to your freshly forked page and copy the url that's on the side under where it says "HTTPS clone URL". Then, head over to your terminal and type ```git clone pasteTheUrlHere```. This takes what's on github, and essentially downloads it so you can now make changes to it on your local computer.
