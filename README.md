@@ -56,23 +56,3 @@ First, you'll want to 'fork' this repo. On the top right of this page you should
 
 
 ****If you see a typo or something that could be said more clearly, make a pull request. This goes for all the repositories and projects we do.****
-
-
-###Learning Objectives. 
-* After finishing this repository you should feel comfortable with the following list, if you're not, ask your mentor for more help. 
-* Understand and be able to use the command line for
-  - creating a folder
-  - creating a file
-  - editing a file
-  - changing directories
-* Understand what Git and Github are and how they fit into the web app landscape
-  - be able to Fork a repo and know it’s purpose
-  - be able to clone a repo and know it’s purpose
-  - be able to add, commit, and push files to github
-  - understand how to use github in a group setting
-  - know how to create an upstream to master
-  - be able to handle merge conflicts
-  - be able to minimally manage vim to escape merge conflict messages
-  - know how to make a Pull Request
-  - be able to pull changes from the master repo
-
