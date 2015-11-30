@@ -1,3 +1,5 @@
 “Hello world!” - said everyone, always.
 
 Except that one time, when Bob didn’t say that.
+
+Who invited Bob anyway?
