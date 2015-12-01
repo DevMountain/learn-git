@@ -3,12 +3,14 @@
 learn-git
 =========
 
-##Objective
+##Objective is to mess with this page as much as possible
 Practice using git + Github
 
 This project will consist of three separate mini-projects to get you comfortable with the kinds of activities you'll be using git for throughout the class. 
 
 In the first mini-project, you'll be mimicking the steps you'll take when you first start your personal project. Creating a repository, linking it to your computer, then pushing those changes up to your GitHub.
+
+Yes i did insert a gratuitous paragraph here...
 
 In the second mini-project, you'll be mimicking the steps you'll take with nearly every DevMountain project you do. You'll 'fork' the DevMountain repository, link your computer with your fork, then pushing those changes up to your GitHub.
 
