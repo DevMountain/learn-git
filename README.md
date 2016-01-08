@@ -3,7 +3,7 @@
 learn-git
 =========
 
-CHANGE
+Second Change
 
 ##Objective
 Practice using git + Github
