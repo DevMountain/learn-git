@@ -1,0 +1,21 @@
+sadlkjfalsjd
+asdafjsdlsad
+'asdj
+asd
+sad
+asdfs
+sadf
+
+asf
+
+My name is anton
+
+
+<<<<<<< HEAD
+this is from the atom editor
+
+
+the feature is now done
+=======
+here is my bug fix
+>>>>>>> master
