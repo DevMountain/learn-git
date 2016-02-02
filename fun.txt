@@ -1,2 +1,3 @@
 “Hello world!” - said everyone, always
 "Hello, My name is Joey"
+"This is Mini-Project 2 edit"
