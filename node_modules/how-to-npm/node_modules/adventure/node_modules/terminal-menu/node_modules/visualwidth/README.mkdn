@@ -1,0 +1,14 @@
+VisualWidth
+===========
+
+This is a unicode character's visual width calculator for javascript.
+
+This module supports node.js, too.
+
+SYNOPSIS
+--------
+
+    var vw = require('./visualwidth');
+    console.log(vw.width('あいうabc')); # => 9
+    console.log(vw.truncate('ほう。hasegawaさん', 7, '...'));  => "ほう..."
+

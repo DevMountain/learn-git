@@ -1,0 +1,73 @@
+{
+  "name": "how-to-npm",
+  "version": "2.0.0",
+  "description": "A module to teach you how to module.",
+  "bin": {
+    "how-to-npm": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/how-to-npm.git"
+  },
+  "keywords": [
+    "workshop",
+    "adventure",
+    "tutorial",
+    "tutor",
+    "npm"
+  ],
+  "author": {
+    "name": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npm/how-to-npm/issues"
+  },
+  "bundleDependencies": [
+    "adventure",
+    "concat-stream",
+    "mkdirp",
+    "rimraf",
+    "semver",
+    "which"
+  ],
+  "dependencies": {
+    "adventure": "^2.10.0",
+    "concat-stream": "^1.4.7",
+    "mkdirp": "^0.5.0",
+    "rimraf": "^2.2.8",
+    "semver": "^4.2.0",
+    "which": "^1.0.8"
+  },
+  "preferGlobal": true,
+  "gitHead": "37d60d08b683636bfc998f34fd51d761d5ccc655",
+  "homepage": "https://github.com/npm/how-to-npm#readme",
+  "_id": "how-to-npm@2.0.0",
+  "scripts": {},
+  "_shasum": "590f1a8d0b63ed7c9fe7cceaf58c6fb7bdcc8980",
+  "_from": "how-to-npm@latest",
+  "_npmVersion": "2.9.1",
+  "_nodeVersion": "0.10.35",
+  "_npmUser": {
+    "name": "linclark",
+    "email": "lin.w.clark@gmail.com"
+  },
+  "dist": {
+    "shasum": "590f1a8d0b63ed7c9fe7cceaf58c6fb7bdcc8980",
+    "tarball": "http://registry.npmjs.org/how-to-npm/-/how-to-npm-2.0.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "isaacs",
+      "email": "isaacs@npmjs.com"
+    },
+    {
+      "name": "linclark",
+      "email": "lin.w.clark@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/how-to-npm/-/how-to-npm-2.0.0.tgz"
+}

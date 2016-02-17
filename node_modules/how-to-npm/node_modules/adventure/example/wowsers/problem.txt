@@ -1,0 +1,9 @@
+Write a program that exports a single function to multiple 2 arguments.
+
+Here is some boilerplate code to get you started:
+
+  module.exports = function (a, b) {
+    // ...
+  }
+
+Use `$ADVENTURE_COMMAND verify PROGRAM.js` to verify your program.

@@ -1,0 +1,11 @@
+Write a program that exports a string containing a sound a robot would be likely
+to make. Here's some boilerplate code you can use to get started:
+
+  module.exports = 'your sound goes here...'
+
+Save that code into a file, YOUR_PROGRAM.js (you can name it whatever you like)
+and then:
+
+  Use `$ADVENTURE_COMMAND verify YOUR_PROGRAM.js` to verify your program.
+  Use `$ADVENTURE_COMMAND run YOUR_PROGRAM.js` to run your program.
+
