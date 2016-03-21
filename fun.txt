@@ -1,1 +1,3 @@
 “Hello world!” - said everyone, always
+adding another line of text for the lesson.
+adding a third line for the 3rd part of git project
