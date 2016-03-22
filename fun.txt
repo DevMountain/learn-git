@@ -1,1 +1,3 @@
 “Hello world!” - said everyone, always
+Adam made a change to the 2nd line.
+Adam made another change to the 3rd line.
