@@ -42,7 +42,7 @@ This usually looks like this:
 * Now what we're going to do is walk through how you would normally treat a day's project here at DevMountain. 
 
 ### Step 1: Fork the Repo
-First, you'll want to 'fork' the repo. On the top right of this page, you should see a button that says 'fork.' This will essentially copy all of the code from this repository, but make it as a new repository under your account. As you can imagine, you can't push directly to the DevMountain repo, because that would not secure for DevMountain (anyone could make any changes they want). What you should do is create a fork of this repo, then push to your own fork because it's under your own account.
+First, you'll want to 'fork' the repo. On the top right of this page, you should see a button that says 'fork.' This will essentially copy all of the code from this repository, but make it as a new repository under your account. As you can imagine, you can't push directly to the DevMountain repo, because that would not be secure for DevMountain (anyone could make any changes they want). What you should do is create a fork of this repo, then push to your own fork because it's under your own account.
 
 ### Step 2: Clone the Fork
 * Once you've forked this repo, you're going to want to clone your forked repository. Go to your freshly forked page and copy the url that's on the side under where it says "HTTPS clone URL". Then, head over to your terminal and type `git clone [Repository URL]`, replacing Repositry URL with the URL you just grabbed from GitHub. This takes what's on GitHub and essentially downloads it so you can now make changes to it on your local computer.
