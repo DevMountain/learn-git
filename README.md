@@ -6,7 +6,9 @@ learn-git
 ##Objective
 Practice using git + Github
 
-hahahahahahahahahahhahaha
+hahahahahahahahahahhahaha   
+
+here is my second change!!
 
 In the first mini-project, you'll be mimicking the steps you'll take when you first start your personal project. Creating a repository, linking it to your computer, then pushing those changes up to your GitHub.
 
