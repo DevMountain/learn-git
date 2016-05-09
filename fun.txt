@@ -1,3 +1,7 @@
 “Hello world!” - said everyone, always
 
-var sam = 42;
+var sam = 42; 
+
+var journal = [];
+
+journal.push(sam);
