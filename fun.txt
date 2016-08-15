@@ -1,1 +1,3 @@
 “Hello world!” - said everyone, always
+var makeAChange = "Did I change it?"
+var change2 = "did I?"
