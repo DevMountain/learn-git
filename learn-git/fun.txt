@@ -1,6 +1,0 @@
-“Hello world!” - said everyone, always
-"Alligators are basically just crocodiles."
-I made this change in TextEdit.
-I made this change in Atom.
-
-I copied this file by dragging it in the system. What will happen?
