@@ -1,2 +1,3 @@
 “Hello world!” - said everyone, always
 "Hello Earth!" - said everybody, all the time
+var x = "What the hell is .gitignore";
