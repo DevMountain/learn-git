@@ -1,3 +1,5 @@
 “Hello world!” - said everyone, always
 "Hello Earth!" - said everybody, all the time
 var x = "What the hell is .gitignore";
+"Hello project #3 GITHUB is confusing!!!"
+"Please explain mini project #3 GITHUB!!"
