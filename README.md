@@ -2,7 +2,7 @@
 
 learn-git
 =========
-hehe xd
+test1
 ##Objective
 Practice using git + Github
 
