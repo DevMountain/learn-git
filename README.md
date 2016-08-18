@@ -34,7 +34,7 @@ This usually looks like this:
 2. `git diff` this will show the actual code that has been changed. Again, we want to make sure we don't push anything to GitHub that shouldn't be there.
 3. If everything looks good, `git add nameOfMyFile.js` This adds our file(s) to the 'staging area'
 4. `git commit -m "The sentence I want associated with this commit message"` which tells your computer 'hey, next time code is pushed to GitHub, take all of this code with it.'
-5. `git push origin master` My code is now on GitHub.
+5. `git push -u origin master` My code is now on GitHub. The `-u` tells GitHub to create a master branch if one doesn't already exist. You can leave it out if the branch you're pushing to already exists.
 
 * If you did this correctly, check your GitHub repository for your new code.
 
