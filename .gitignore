@@ -1,2 +1,4 @@
 **.sw*
 .DS_store
+/joshRepo/nbproject/private/
+/nbproject/
