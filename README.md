@@ -5,7 +5,7 @@ learn-git
 
 ##Objective
 Practice using git + Github
-hhjjhbhjbS
+__________________gkrekkbmkkf ___ one more change bro 
 
 This project will consist of three separate mini-projects to get you comfortable with the kinds of activities you'll be using git for throughout the class.
 
