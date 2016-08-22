@@ -51,8 +51,8 @@ First, you'll want to 'fork' the repo. On the top right of this page, you should
 ##Mini-Project 3: Group Project
 * We're essentially going to redo all the same steps we did in Mini-Project 2, but add one more step. 
 
-### Step 1: Re-clone Your Fork
-* Re-clone your fork of this project to your local computer, make a change, add, commit, then push that change. 
+### Step 1: Make another change
+* Make another change to your forked clone, add, commit, then push that change. 
 
 * Go to your forked repo on GitHub and verify your change is there. 
 
