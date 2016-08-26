@@ -66,7 +66,7 @@ If you do not do one of these three things, when you try to do a git clone, it w
 Let's imagine we're working in groups. If we have everyone pushing to one repo without verifying the quality of the code, things can get messy pretty quick. GitHub fixed this solution with 'Pull Requests.' Basically, you fork a project, make changes to your fork, then you make a Pull Request (PR) back into the original project requesting that some piece of code be added to the original repo. This is how the vast majority of open source code projects work.
 
 ### Step 2: Make the PR
-* Go to your forked repo on github and click where it says 'Pull Request.' It should show you the file changes you've made and how they differ from the original repo. If it does, click on the submit button to submit your pull request. 
+* Go to your forked repo on github and click where it says 'Pull Request', and click 'New pull request'. It should show you the file changes you've made and how they differ from the original repo. If it does, click on the 'create pull request' button to submit your pull request. 
 * Now, I should see your pull request and I can decide if I want to add that code into the main project or not.
 
 ## Contributions
