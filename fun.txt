@@ -1,1 +1,3 @@
 “Hello world!” - said everyone, always
+var myName = "Paul Ragar";
+Paul Ragar
