@@ -1,2 +1,2 @@
 “Hello world!” - said everyone, always
-//comeoadnadoanaj
+var crazy = "this project";
