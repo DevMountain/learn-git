@@ -1,1 +1,3 @@
 “Hello world!” - said everyone, always
+
+Unless they weren't programmers
