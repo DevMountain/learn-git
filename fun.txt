@@ -1,1 +1,6 @@
 “Hello world!” - said everyone, always
+
+this is a small change to the fun file
+
+
+this is a second small change to the fun file for mini3
