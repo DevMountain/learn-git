@@ -1,1 +1,6 @@
 “Hello world!” - said everyone, always
+"What is your favorite color?" asked the bridgekeeper.
+"What do you mean, an African or European swallow?"
+"Don't you mean an unladen swallow?"
+"We want a shrubbery."
+"i fixed the navbar"
