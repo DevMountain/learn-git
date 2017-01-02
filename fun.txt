@@ -1,1 +1,2 @@
 “Hello world!” -Abraham Lincoln
+"Hello, Abe!" -George Washington
