@@ -1,1 +1,1 @@
-“Hello world!” - said everyone, always
+“Hello, world!” - wrote someone who liked addressee and message to be separated.
