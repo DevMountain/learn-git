@@ -6,7 +6,7 @@ learn-git
 ##Objective
 Practice using git + Github
 
-This project will consist of three separate mini-projects to get you comfortable with the kinds of activities you'll be using git for throughout the class. 
+This project will consist of three separate mini-projects to get you comfortable with the kinds of activities you'll be using git for throughout the class.
 
 In the first mini-project, you'll be mimicking the steps you'll take when you first start your personal project. Creating a repository, linking it to your computer, then pushing those changes up to your GitHub.
 
@@ -16,17 +16,26 @@ Finally, in the last mini-project you'll be mimicking the steps you'll take duri
 
 ##Mini-Project 1: Personal Project
 
+CHANGEs aRE HERE !!!!
+Make sure to use the readme and say hello world
+
 ### Step 1: Create a Repository on Github
+
+This Is THE 2nd changes we are making
+
+NO HABLA ESPANOL
+
+
 Let's jump ahead a month or two and pretend like we just reached personal projects. You're going to be pushing your code up to GitHub frequently. In order to do that, you first need to create a repository on GitHub to push to. Head over to your GitHub account, then in the top right-hand corner click the '+' button and click 'New repository'. Enter the name of your repository then click 'Create Repository'. Do NOT initialize the repository with a README. This repository is where your code for this project will now live.
 
 ### Step 2: Set up the Origin
-Once you create your repository, you'll need to connect that repository with your code on your computer. 
-* Create a folder called 'myProject' then inside that folder create a file called 'myName.js'. Add your name to that file and then save it. 
+Once you create your repository, you'll need to connect that repository with your code on your computer.
+* Create a folder called 'myProject' then inside that folder create a file called 'myName.js'. Add your name to that file and then save it.
 * Now in your terminal, navigate to your 'myProject' folder. Once inside that folder, type `git init`. You've just told your computer that you want git to watch the 'myProject' folder and keep track of any changes; basically making it so you can now run git commands inside of this folder.  (Warning:  Be very careful to make sure you're in the right directory when you run `git init`!)
-* Now that you've initialized your 'myProject' folder, we need to tell your computer where the location of your GitHub repository is. To do this you'll create what is called a remote. Basically, we tell our computer "Hey, I created this repo on GitHub, so when I push, I want my code to go to this GitHub repo." To do this, in your terminal type `git remote add origin [Repository URL]` replacing [Repository URL] with your repo's url.  To get the url, open the repository you made in step 1 in the browser.  Then copy the url out of the address bar. Now whenever you run `git push origin master` your computer knows that origin is pointing to your repo you made on GitHub and it pushes your changes there. (If you accidentally DID initialize your repository with a README, you must do a `git pull origin master` first - to get the README file on your computer - before you'll be able to push.) 
+* Now that you've initialized your 'myProject' folder, we need to tell your computer where the location of your GitHub repository is. To do this you'll create what is called a remote. Basically, we tell our computer "Hey, I created this repo on GitHub, so when I push, I want my code to go to this GitHub repo." To do this, in your terminal type `git remote add origin [Repository URL]` replacing [Repository URL] with your repo's url.  To get the url, open the repository you made in step 1 in the browser.  Then copy the url out of the address bar. Now whenever you run `git push origin master` your computer knows that origin is pointing to your repo you made on GitHub and it pushes your changes there. (If you accidentally DID initialize your repository with a README, you must do a `git pull origin master` first - to get the README file on your computer - before you'll be able to push.)
 
 ### Step 3: Push your code to GitHub
-Now that our remote is set up, you'll need to add your files to the staging area, commit your files to be ready for pushing, then push your files. 
+Now that our remote is set up, you'll need to add your files to the staging area, commit your files to be ready for pushing, then push your files.
 
 This usually looks like this:
 
@@ -39,7 +48,7 @@ This usually looks like this:
 * If you did this correctly, check your GitHub repository for your new code.
 
 ##Mini-Project 2: DevMountain Project
-* Now what we're going to do is walk through how you would normally treat a day's project here at DevMountain. 
+* Now what we're going to do is walk through how you would normally treat a day's project here at DevMountain.
 
 ### Step 1: Fork the Repo
 First, you'll want to 'fork' the repo. On the top right of this page, you should see a button that says 'fork.' This will essentially copy all of the code from this repository, but make it as a new repository under your account. As you can imagine, you can't push directly to the DevMountain repo, because that would not be secure for DevMountain (anyone could make any changes they want). What you should do is create a fork of this repo, then push to your own fork because it's under your own account.
@@ -49,24 +58,24 @@ First, you'll want to 'fork' the repo. On the top right of this page, you should
 * Once you've cloned your fork, open up your fork in Sublime Text and make a change. Once you've made a change head over to your terminal and type `git status`, you should see that a file has been changed. If you see the file, run through the steps outlined above in Mini-Project 1 (status, diff, add, commit, push). Note that when you run `git push origin master` in this repository, origin is already pointing to your forked repo since you used `git clone`. Unlike the last step, you don't need to tell your computer where to push your code because git already knows.
 
 ##Mini-Project 3: Group Project
-* We're essentially going to redo all the same steps we did in Mini-Project 2, but add one more step. 
+* We're essentially going to redo all the same steps we did in Mini-Project 2, but add one more step.
 
 ### Step 1: Re-clone Your Fork
 
-Note: to re-clone your fork, you must do one of three things: 
+Note: to re-clone your fork, you must do one of three things:
 1. Delete the folder on your computer, or
 2. Rename the folder on your computer, or
 3. Rename the second clone by doing ```git clone [repo url] [new folder name]```
 If you do not do one of these three things, when you try to do a git clone, it will give you an error saying it already exists.
 
-* Re-clone your fork of this project to your local computer, make a change, add, commit, then push that change. 
+* Re-clone your fork of this project to your local computer, make a change, add, commit, then push that change.
 
-* Go to your forked repo on GitHub and verify your change is there. 
+* Go to your forked repo on GitHub and verify your change is there.
 
 Let's imagine we're working in groups. If we have everyone pushing to one repo without verifying the quality of the code, things can get messy pretty quick. GitHub fixed this solution with 'Pull Requests.' Basically, you fork a project, make changes to your fork, then you make a Pull Request (PR) back into the original project requesting that some piece of code be added to the original repo. This is how the vast majority of open source code projects work.
 
 ### Step 2: Make the PR
-* Go to your forked repo on github and click where it says 'Pull Request', and click 'New pull request'. It should show you the file changes you've made and how they differ from the original repo. If it does, click on the 'create pull request' button to submit your pull request. 
+* Go to your forked repo on github and click where it says 'Pull Request', and click 'New pull request'. It should show you the file changes you've made and how they differ from the original repo. If it does, click on the 'create pull request' button to submit your pull request.
 * Now, I should see your pull request and I can decide if I want to add that code into the main project or not.
 
 ## Contributions
