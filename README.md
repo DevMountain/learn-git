@@ -16,10 +16,16 @@ Finally, in the last mini-project you'll be mimicking the steps you'll take duri
 
 ##Mini-Project 1: Personal Project
 
-CHANGEs aRE HERE !!!! 
+CHANGEs aRE HERE !!!!
 Make sure to use the readme and say hello world
 
 ### Step 1: Create a Repository on Github
+
+This Is THE 2nd changes we are making
+
+NO HABLA ESPANOL
+
+
 Let's jump ahead a month or two and pretend like we just reached personal projects. You're going to be pushing your code up to GitHub frequently. In order to do that, you first need to create a repository on GitHub to push to. Head over to your GitHub account, then in the top right-hand corner click the '+' button and click 'New repository'. Enter the name of your repository then click 'Create Repository'. Do NOT initialize the repository with a README. This repository is where your code for this project will now live.
 
 ### Step 2: Set up the Origin
