@@ -1,2 +1,3 @@
 “Hello world!” - said everyone, always
 "But WHY???" - asked the inquisitive coder
+"Can I go to the restroom???" - asked the annoying kid everyone hates
