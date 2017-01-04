@@ -1,1 +1,3 @@
 “Hello world!” - said everyone, always
+"Goodbye, world!"
+"see ya"
