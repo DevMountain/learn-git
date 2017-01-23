@@ -1,1 +1,3 @@
 “Hello world!” - said everyone, always
+
+Learning Git is interesting and challenging at first for everyday individuals.
