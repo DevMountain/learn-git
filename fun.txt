@@ -1,3 +1,5 @@
 “Hello world!” - said everyone, always
 
 Learning Git is interesting and challenging at first for everyday individuals.
+
+This is a RECLONE of the second project. I hope I'm doing this right.
