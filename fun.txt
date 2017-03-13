@@ -1,3 +1,5 @@
 ﻿“Hello world!” - said everyone, always
 
 "Day 1 @ DevMountain - learning git and github" - said Wang Bhotia
+
+Working on "Mini-Project 3: Group Project"
