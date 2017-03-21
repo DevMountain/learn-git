@@ -3,7 +3,7 @@
 learn-git
 =========
 
-##Objective
+## Objective
 Practice using git + Github
 
 This project will consist of three separate mini-projects to get you comfortable with the kinds of activities you'll be using git for throughout the class. 
@@ -14,7 +14,7 @@ In the second mini-project, you'll be mimicking the steps you'll take with nearl
 
 Finally, in the last mini-project you'll be mimicking the steps you'll take during the group project portion. You'll fork your group's repo, link your computer with your fork, push changes to your GitHub, then make a 'Pull Request' into your group's repo.
 
-##Mini-Project 1: Personal Project
+## Mini-Project 1: Personal Project
 
 ### Step 1: Create a Repository on Github
 Let's jump ahead a month or two and pretend like we just reached personal projects. You're going to be pushing your code up to GitHub frequently. In order to do that, you first need to create a repository on GitHub to push to. Head over to your GitHub account, then in the top right-hand corner click the '+' button and click 'New repository'. Enter the name of your repository then click 'Create Repository'. Do NOT initialize the repository with a README. This repository is where your code for this project will now live.
