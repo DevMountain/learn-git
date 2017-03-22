@@ -1,1 +1,2 @@
 “Hello world!” - said everyone, always
+No really, we developers say that all the time. It’s tradition.
