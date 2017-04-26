@@ -4,6 +4,8 @@ learn-git
 =========
 
 ## Objective
+All your base are belong to us!
+
 Practice using git + Github
 
 This project will consist of three separate mini-projects to get you comfortable with the kinds of activities you'll be using git for throughout the class. 
