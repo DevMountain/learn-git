@@ -1,2 +1,3 @@
 “Hello world!” - said everyone, always
 "Until someone decides to say something else!" - for once in our lives
+"Adding another line for the fun of it! - Learning Git is great!
