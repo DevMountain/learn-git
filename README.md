@@ -6,6 +6,8 @@ learn-git
 ## Objective
 Practice using git + Github
 
+....or don't....
+
 This project will consist of three separate mini-projects to get you comfortable with the kinds of activities you'll be using git for throughout the class. 
 
 In the first mini-project, you'll be mimicking the steps you'll take when you first start your personal project. Creating a repository, linking it to your computer, then pushing those changes up to your GitHub.
