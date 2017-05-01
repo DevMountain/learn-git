@@ -3,7 +3,6 @@
 learn-git
 =========
 
-this is a change.
 
 ## Objective
 Practice using git + Github
@@ -40,7 +39,7 @@ This usually looks like this:
 
 * If you did this correctly, check your GitHub repository for your new code.
 
-##Mini-Project 2: DevMountain Project
+## Mini-Project 2: DevMountain Project
 * Now what we're going to do is walk through how you would normally treat a day's project here at DevMountain.
 
 ### Step 1: Fork the Repo
@@ -50,7 +49,7 @@ First, you'll want to 'fork' the repo. On the top right of this page, you should
 * Once you've forked this repo, you're going to want to clone your forked repository. Go to your freshly forked page and copy the url (click on the green "clone or download" button on the right). Then, head over to your terminal and type `git clone [Repository URL]`, replacing Repositry URL with the URL you just grabbed from GitHub. This takes what's on GitHub and essentially downloads it so you can now make changes to it on your local computer.
 * Once you've cloned your fork, open up your fork in Sublime Text and make a change. Once you've made a change head over to your terminal and type `git status`, you should see that a file has been changed. If you see the file, run through the steps outlined above in Mini-Project 1 (status, diff, add, commit, push). Note that when you run `git push origin master` in this repository, origin is already pointing to your forked repo since you used `git clone`. Unlike the last step, you don't need to tell your computer where to push your code because git already knows.
 
-##Mini-Project 3: Group Project
+## Mini-Project 3: Group Project
 * We're essentially going to redo all the same steps we did in Mini-Project 2, but add one more step.
 
 ### Step 1: Re-clone Your Fork
