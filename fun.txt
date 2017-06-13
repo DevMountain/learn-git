@@ -1,1 +1,2 @@
 “Hello world!” - said everyone, always
+"And never forget to say goodbye too!"
