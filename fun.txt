@@ -1,4 +1,6 @@
 ﻿“Hello world!” - said everyone, always
 
 
-More Life
+function hmm(x) {
+ return "What's happening?"
+}
