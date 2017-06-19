@@ -1,1 +1,6 @@
-“Hello world!” - said everyone, always
+﻿“Hello world!” - said everyone, always
+
+
+function hmm(x) {
+ return "What's happening?"
+}
