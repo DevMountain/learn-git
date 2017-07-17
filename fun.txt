@@ -1,1 +1,3 @@
-“Hello world!” - said everyone, always
+“Hello, world!” is the most basic form on programmer communication
+//http://esolangs.org/wiki/Hello_world_program_in_esoteric_languages#chicken
+//And this is a link to amazing hello world programs
