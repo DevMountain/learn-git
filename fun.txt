@@ -1,2 +1,3 @@
 “Hello world!” - said everyone, always
 But sometime people say "Goodbye World"
+And some people don't say anything.
