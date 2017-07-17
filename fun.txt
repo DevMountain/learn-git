@@ -1,1 +1,4 @@
 “Hello world!” - said everyone, always
+
+
+“Goodbye, world” - said Nathan Moats
