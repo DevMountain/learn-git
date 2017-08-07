@@ -1,4 +1,4 @@
-<img src="http://placekitten.com/250/250" width="250" align="right">
+<img src="http://placekitten.com/250/251" width="250" align="right">
 
 # Project Summary
 
@@ -67,7 +67,7 @@ In this step we will setup the origin for the repository. We'll do this by conne
     </details>
 
 ## Step 3: Push your code to GitHub
-
+<img src="http://placekitten.com/251/250" width="250" align="right">
 ### Summary
 
 In this step, we will push code to GitHub.
