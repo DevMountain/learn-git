@@ -1,4 +1,4 @@
-<img src="https://placekitten.com/250/250" width="250" align="right">
+<img src="http://placekitten.com/250/250" width="250" align="right">
 
 # Project Summary
 
