@@ -1,4 +1,4 @@
-<img src="https://devmounta.in/img/logowhiteblue.png" width="250" align="right">
+<img src="https://www.placekitten.com/250/250" width="250" align="right">
 
 # Project Summary
 
@@ -223,5 +223,5 @@ If you see a problem or a typo, please fork, make the necessary changes, and cre
 © DevMountain LLC, 2017. Unauthorized use and/or duplication of this material without express and written permission from DevMountain, LLC is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to DevMountain with appropriate and specific direction to the original content.
 
 <p align="center">
-<img src="https://devmounta.in/img/logowhiteblue.png" width="250">
+<img src="https://www.placekitten.com/250/200" width="250">
 </p>
