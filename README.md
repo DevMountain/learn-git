@@ -1,4 +1,4 @@
-<img src="https://devmounta.in/img/logowhiteblue.png" width="250" align="right">
+<img src="http://placekitten.com/250/251" width="250" align="right">
 
 # Project Summary
 
@@ -67,7 +67,7 @@ In this step we will setup the origin for the repository. We'll do this by conne
     </details>
 
 ## Step 3: Push your code to GitHub
-
+<img src="http://placekitten.com/251/250" width="250" align="right">
 ### Summary
 
 In this step, we will push code to GitHub.
@@ -223,5 +223,5 @@ If you see a problem or a typo, please fork, make the necessary changes, and cre
 © DevMountain LLC, 2017. Unauthorized use and/or duplication of this material without express and written permission from DevMountain, LLC is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to DevMountain with appropriate and specific direction to the original content.
 
 <p align="center">
-<img src="https://devmounta.in/img/logowhiteblue.png" width="250">
+<img src="http://placekitten.com/250/200" width="250">
 </p>
