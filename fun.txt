@@ -1,1 +1,2 @@
-“Hello world!” - said everyone, always
+﻿“Hello world!” - said everyone, always
+"You say Hello, but I say Good Bye"
