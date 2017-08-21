@@ -1,10 +1,12 @@
 <img src="https://devmounta.in/img/logowhiteblue.png" width="250" align="right">
 
+Modifying this readme file. -Riley
+
 # Project Summary
 
 Practice using git + Github
 
-This project will consist of three separate mini-projects to get you comfortable with the kinds of activities you'll be using git for throughout the class. 
+This project will consist of three separate mini-projects to get you comfortable with the kinds of activities you'll be using git for throughout the class.
 
 In the first mini-project, you'll be mimicking the steps you'll take when you first start your personal project. Creating a repository, linking it to your computer, then pushing those changes up to your GitHub.
 
@@ -41,7 +43,7 @@ In this step we will setup the origin for the repository. We'll do this by conne
 * Create a file called `myName.js` and add your name to that file.
 * Save the file and open a terminal window.
 * In your terminal window, `cd` to your `myProject` folder. O
-* Run `git init`. 
+* Run `git init`.
   * <details>
 
     <summary> What just happened? </summary>
@@ -62,7 +64,7 @@ In this step we will setup the origin for the repository. We'll do this by conne
 
     <br />
 
-    ( If you accidentally DID initialize your repository with a README, you must do a `git pull origin master` first - to get the README file on your computer - before you'll be able to push. ) 
+    ( If you accidentally DID initialize your repository with a README, you must do a `git pull origin master` first - to get the README file on your computer - before you'll be able to push. )
 
     </details>
 
