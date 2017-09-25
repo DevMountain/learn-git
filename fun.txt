@@ -1,1 +1,3 @@
 “Hello world!” - said everyone, always
+"Ciao Mondo!" - Italian version of Hello World
+"Hola Mundo" - Spanish version of Hello World
