@@ -1,1 +1,7 @@
 “Hello world!” - said everyone, always
+
+I`m new to the file.
+
+Check me out!
+
+I made more changes to the file.
