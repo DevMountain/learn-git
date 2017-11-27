@@ -1,5 +1,5 @@
 <img src="https://devmounta.in/img/logowhiteblue.png" width="250" align="right">
-#I am making a change. Wilson's beard. 
+#I am making a change. Wilson's beard and bust bristles.
 # Project Summary
 
 Practice using git + Github
