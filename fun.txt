@@ -1,1 +1,7 @@
 “Hello world!” - said everyone, always
+
+"Bryan, your jokes are bad" - README.md
+
+"Bryan, unmute your microphone" - me
+
+"Git and Github are cool" - some dude
