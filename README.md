@@ -129,6 +129,8 @@ In this step, we will push code to GitHub.
 
 ## Mini-Project 2: DevMountain Project
 
+This is another change I making to practice the second mini project
+
 ## Step 1
 
 ### Summary
