@@ -1,58 +1,227 @@
-learn-git!
-=========
-* This project will consist of three separate mini-projects to get you comfortable with the kinds of activities you'll be using git for throughout the class. 
-* The first mini-project you'll be mimicking the steps you'll take when you first start your personal project. Creating a repository, linking it to your computer, then pushing those changes up to your github.
-* The second mini-project you'll be mimicking the steps you'll take with every DevMountain project you do. You'll 'fork' the DevMountain repository, link your computer with your fork, then pushing those changes up to your github.
-* The last mini-project you'll be mimicking the steps you'll take when it's group project period. You'll fork your groups repo, link your computer with your fork, push changes to your github, then make a 'Pull Request' into your groups repo.
+<img src="https://devmounta.in/img/logowhiteblue.png" width="250" align="right">
 
-##Mini-Project 1: Personal Project
-### Step 1: Create a Repository on Github
-* Let's  jump ahead a month or two and pretend like we just got to personal project period. You're going to be pushing your code up to github frequently. In order to do that, you first need to create a repository on github to push to. Head over to your github account then in the top right hand corner click the '+' button and click 'new repository'. Enter the name of your repository then click 'Create Repository'. This repository is where your code for this project will now live.
+# Project Summary
 
-### Step 2: Set up the Origin
-* Once you create your repository, you'll need to connect that repository with your code on your computer. 
-* Create a folder called 'myProject' then inside that folder create a file called 'myName.js'. Add your name to that file and then save it. 
-* Now in your terminal navigate to your 'myProject' folder. Once inside that folder, type ```git init```. You've just told your computer that you want git to watch the 'myProject' folder and keep track of any changes - basically making it so you can now run git commands inside of this folder.  (Warning:  Be very careful to make sure you're in the right directory when you do git init! )
-* Now that you've initialized your 'myProject' folder, we need to tell your computer where the location of your github repository is. To do this you create what is called a remote. Basically we tell our computer 'Hey computer, I created this repo
- on github, when I push, I want my code to go to this github repo'. To do this, in your terminal type ```git remote add origin [Repository URL]``` with [Repository URL] being replaced.  To get the url open the repository you made in step 1, in the browser.  Then copy the url out of the address bar. Now whenever you run ```git push origin master``` your computer knows that origin is pointing to your repo you made on github and it pushes your changes there. 
+Practice using git + Github
 
-### Step 3: Push your code to github
-Now that our remote is set up. You'll need to add your files to the staging area, commit your files to be ready for pushing, then push your files. 
+This project will consist of three separate mini-projects to get you comfortable with the kinds of activities you'll be using git for throughout the class. 
 
-The process I always take is one that looks like this:
+In the first mini-project, you'll be mimicking the steps you'll take when you first start your personal project. Creating a repository, linking it to your computer, then pushing those changes up to your GitHub.
 
-1. ```git status``` --> this will show me what files have been changed. I want to make sure not to add any files to github that I don't want there
-2. ```git diff``` this will show me the actual code that has been changed. Again, I want to make sure I don't push anything to github that shouldn't be there
-3. If everything looks good ```git add nameOfMyFile.js``` I add my file(s) to the 'staging area'
-4. ```git commit -m "The sentence I want associated with this commit message"``` which tells my computer 'hey, next time code is pushed to github, take all of this code with it.
-5. ```git push origin master``` and MAGIC. My code is now on github.
+In the second mini-project, you'll be mimicking the steps you'll take with nearly every DevMountain project you do. You'll 'fork' the DevMountain repository, link your computer with your fork, then pushing those changes up to your GitHub.
 
-* If all goes well, check your github repository for your new code.
+Finally, in the last mini-project you'll be mimicking the steps you'll take during the group project portion. You'll fork your group's repo, link your computer with your fork, push changes to your GitHub, then make a 'Pull Request' into your group's repo.
 
+## Mini-Project 1: Personal Project
 
-##Mini-Project 2: DevMountain Project
-* Now what we're going to do is walk through how you would normally treat a project here from DevMountain. 
+## Step 1
 
-### Step 1: Fork the Repo
-First, you'll want to 'fork' this repo. On the top right of this page you should see a button that says 'fork'. What this is going to do is essentially copy all of the code from this repository, but make it as a repo under your account. As you can imagine, you can't push directly to the DevMtn repo because that would not secure for DevMtn. But what you can do is create a fork of this repo, then push to your own fork because it's under your own account.
+### Summary
 
-### Step 2: Clone the Fork
-* Once you've forked this repo, you're going to want to clone your forked repository. Go to your freshly forked page and copy the url that's on the side under where it says "HTTPS clone URL". Then, head over to your terminal and type ```git clone pasteTheUrlHere```. This takes what's on github, and essentially downloads it so you can now make changes to it on your local computer.
-* Once you've cloned your fork, open up your fork in Sublime Text and make a change. Once you've made a change head over to your terminal and type ```git status```, you should see that a file has been changed. If you see the file, run through the steps outlined in Mini-Project 1 (status, diff, add, commit, push). Note that when you run ```git push origin master``` in this repository origin is already pointing to your forked repo since you used ```git clone```. Unlike the last step you don't need to tell your computer where to push your code because git already knows.
+In this step we will create a repository on GitHUB.
 
-##Mini-Project 3: Group Project
-* We're essentially going to redo all the same steps we did in Mini-Project 2, but add one more step. 
+### Instructions
 
-### Step 1: Re-clone Your Fork
-* Re-clone your fork of this project to your local computer, make a change, add, commit, then push that change. 
+* Go to <a href="https://github.com/">GitHub</a>.
+* Sign in to GitHub.
+* On the right side of the page, click on the green `New repository` button.
+* Give your repository any name you like and make sure that the repository is public.
+* Also make sure that the `Initialize this repository with a README` is <b>NOT</b> checked.
 
-* Go to your forked repo on github and verify your change is there. 
+## Step 2
 
-> Let's imagine we're working in groups. If we have everyone pushing to one repo without verifying the quality of the code, things can get messy pretty quick. We fixed this solution with things called 'Pull Requests'. Basically you fork a project, make changes to your fork, then you make a pull request back into the original project requesting that some piece of code be added to the original repo. This is how open source projects work.
+### Summary
 
-### Step 2: Make the PR
-* Go to your forked repo and click where it says 'Pull Request'. It should show you the file changes you've made and how they differ from the original repo. If it does, click on the submit button to submit your pull request. 
-* Now, I should see your pull request and I can decide if I want to add that code into the main project or not.
+In this step we will setup the origin for the repository. We'll do this by connecting code on our computer to the GitHub repository we just created.
 
+### Instructions
 
-****If you see a typo or something that could be said more clearly, make a pull request. This goes for all the repositories and projects we do.****
+* Create a folder called `myProject`.
+* Go into that folder.
+* Create a file called `myName.js` and add your name to that file.
+* Save the file and open a terminal window.
+* In your terminal window, `cd` to your `myProject` folder. O
+* Run `git init`. 
+  * <details>
+
+    <summary> What just happened? </summary>
+
+    <br />
+
+    You've just told your computer that you want git to watch the `myProject` folder and to keep track of any changes. This also allows us to run git commands inside of the folder. (Warning:  Be very careful to make sure you're in the right directory when you run `git init`!)
+
+    </details>
+* Run `git remote add origin [Repository URL goes here]`. You can get your URL from going to repository you made earlier in your browser and copying the address.
+  * <details>
+
+    <summary> What just happened? </summary>
+
+    <br />
+
+    Basically, we tell our computer "Hey, I created this repo on GitHub, so when I push, I want my code to go to this GitHub repo." Now whenever you run `git push origin master` your computer knows that origin is pointing to your repo you made on GitHub and it pushes your changes there.
+
+    <br />
+
+    ( If you accidentally DID initialize your repository with a README, you must do a `git pull origin master` first - to get the README file on your computer - before you'll be able to push. ) 
+
+    </details>
+
+## Step 3: Push your code to GitHub
+
+### Summary
+
+In this step, we will push code to GitHub.
+
+### Instructions
+
+* Open a terminal window and make sure it is in the directory of `myProject`.
+* Run `git status`.
+  * <details>
+
+    <summary> What does this do? </summary>
+
+    <br />
+
+    This will show what files have been changed. This also helps us determine what files we want to add to GitHub and what files we don't want to add to GitHub.
+
+    </details>
+* Run `git diff`.
+  * <details>
+
+    <summary> What does this do? </summary>
+
+    <br />
+
+    This will show the actual code that has been changed. Again, we want to make sure we don't push anything to GitHub that shouldn't be there.
+
+    </details>
+* Run `git add nameOfMyFile.fileExtension`.
+  * <details>
+
+    <summary> What does this do? </summary>
+
+    <br />
+
+    This adds our file(s) to the 'staging area'. This is basically a fail safe if you accidentially add something you don't want. You can view items that our staged by running `git status`.
+
+    </details>
+* Run `git commit -m "The sentence I want associated with this commit message"`.
+  * <details>
+
+    <summary> What does this do? </summary>
+
+    <br />
+
+    This tells your computer: 'Hey, the next time code is pushed to GitHub, take all of this code with it.' The message also specifies what GitHub will display in relation to this commit.
+
+    </details>
+* Run `git push origin master`
+  * <details>
+
+    <summary> What does this do? </summary>
+
+    <br />
+
+    Your code is now pushed to GitHub. Be sure to include `origin master`, as this tells GitHub which branch you want to push to, and creates the branch if it doesn't exist yet.
+
+    </details>
+* Go to your repository on GitHub and see your updates.
+
+## Mini-Project 2: DevMountain Project
+
+## Step 1
+
+### Summary
+
+In this step, we will fork this tutorial repository.
+
+### Instructions
+
+* On this current GitHub repository, scroll to the top and look for a button that says `fork`.
+* Click the `fork` button.
+  * <details>
+
+    <summary> What does this do? </summary>
+
+    <br />
+
+    This will essentially copy all of the code from this repository, but make it as a new repository under your account. As you can imagine, you can't push directly to the DevMountain repo, because that would not be secure for DevMountain (anyone could make any changes they want). What you should do is create a fork of this repo, then push to your own fork because it's under your own account.
+
+    </details>
+
+## Step 2
+
+### Summary
+
+In this step, we will take the forked repository and clone it down to our machine.
+
+### Instructions
+
+* Go to your forked repository on GitHub. It should appear under `Your repositories` which is next to the `New repository` button.
+* Click on the green `clone or download` button and copy the URL.
+* Open a terminal window and navigate to your Desktop.
+* Run `git clone [the url you copied]`.
+  * <details>
+
+    <summary> What does this do? </summary>
+
+    <br />
+
+    This takes what's on GitHub and essentially downloads it so you can now make changes to it on your local computer.
+
+    </details>
+
+## Step 3
+
+### Summary
+
+In this step, we will make changes to our clone and push them to GitHub.
+
+### Instructions
+
+* Open the folder in your coding IDE.
+* Make a change in a file.
+* Run through the steps outlined in `Step 3` of the first project ( status, diff, add, commit, push ).
+  * Since you've cloned this repository, it is already pointing to your forked version. Therefore, you don't need to tell your computer where to push the code.
+
+## Mini-Project 3: Group Project
+
+## Step 1
+
+### Summary
+
+To help this process stick in memory we are going to repeat the process of the second project. We'll delete our current fork on our machine and restart the process.
+
+### Instructions
+
+* Delete the folder on your Desktop that is the forked repository.
+* Re-clone the fork to your desktop.
+* Make a change to any file.
+* Run through the process of pushing to GitHub ( status, diff, add, commit, push ).
+
+## Step 2
+
+### Summary
+
+Here is where things start to get different. Let's imagine we're working in groups. If we have everyone pushing to one repo without verifying the quality of the code, things can get messy pretty quick. GitHub fixed this solution with 'Pull Requests.' Basically, you fork a project, make changes to your fork, then you make a Pull Request (PR) back into the original project requesting that some piece of code be added to the original repo. This is how the vast majority of open source code projects work. In this step, we will make a pull-request.
+
+### Instructions
+
+* Go to your forked repo on GitHub.
+* Locate the button that says `Pull Request` and click it.
+* Locate the green button that says `New pull request` and click it.
+  * You should now see the file changes you've made and how they differ from the original repo.
+* Click on the `Create pull request` button to submit your PR.
+* Now if you navigate to the <a href="https://github.com/DevMountain/learn-git/pulls">original repository</a> and take a look at the `Pull Requests` yours should be there.
+
+## Contributions
+
+If you see a problem or a typo, please fork, make the necessary changes, and create a pull request so we can review your changes and merge them into the master repo and branch.
+
+## Copyright
+
+© DevMountain LLC, 2017. Unauthorized use and/or duplication of this material without express and written permission from DevMountain, LLC is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to DevMountain with appropriate and specific direction to the original content.
+
+<p align="center">
+<img src="https://devmounta.in/img/logowhiteblue.png" width="250">
+</p>
