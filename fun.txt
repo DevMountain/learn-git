@@ -2,3 +2,5 @@
 "Bye, Felicia" - Ice Cube
 "House Hunters International is my favorite"-Jonathan
 "I don't have a quote" - Logan
+
+This is part of the second mini-project.
