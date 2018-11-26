@@ -6,3 +6,4 @@
 "Hi" - Me
 "edit" - Unknown
 "hello" - Daniel
+"no quote" - some guy
