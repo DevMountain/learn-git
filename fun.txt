@@ -1,3 +1,4 @@
 “Hello world!” - said everyone, always
 "Bye, Felicia" - Ice Cube
 "You shall not pass!" - Gandalf the Grey
+'Do or do not, there is no try' -Yoda
