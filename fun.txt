@@ -1,2 +1,3 @@
 “Hello world!” - said everyone, always
 "Bye, Felicia" - Ice Cube
+"Do or do not, there is no try." - Jedi Master Joda
