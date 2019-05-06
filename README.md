@@ -218,7 +218,9 @@ Here is where things start to get different. Let's imagine we're working in grou
 
 ## Contributions
 
-If you see a problem or a typo, please fork, make the necessary changes, and create a pull request so we can review your changes and merge them into the master repo and branch.
+If you see a problem or a typo, please fork, make the necessary changes, and create a pull request so we can review your changes and merge them into the master repo and branch. 
+
+Here is a change to test this pull process.
 
 ## Copyright
 
