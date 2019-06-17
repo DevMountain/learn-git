@@ -1,3 +1,4 @@
 “Hello world!” - said everyone, always
 "Bye, Felicia" - Ice Cube
 "Go Dayton Flyers" - Mike Laufersweiler 
+"new quote" -mike 
