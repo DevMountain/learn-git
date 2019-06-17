@@ -1,2 +1,4 @@
 “Hello world!” - said everyone, always
 "Bye, Felicia" - Ice Cube
+"Everyone is a genius, but if you judge a fish by it's ability to climb a tree, 
+ it will live it's entire life believing that it is an idiot." -Albert Einstein
