@@ -40,7 +40,7 @@ In this step we will setup the origin for the repository. We'll do this by conne
 * Go into that folder.
 * Create a file called `myName.js` and add your name to that file.
 * Save the file and open a terminal window.
-* In your terminal window, `cd` to your `myProject` folder. O
+* In your terminal window, `cd` to your `myProject` folder.
 * Run `git init`. 
   * <details>
 
@@ -225,6 +225,3 @@ If you see a problem or a typo, please fork, make the necessary changes, and cre
 <p align="center">
 <img src="https://s3.amazonaws.com/devmountain/readme-logo.png" width="250">
 </p>
-
-<p>I'm going to make a change by adding a sentence to this README.</p>
-<p>I'm going to make yet another change here. Let's see what happens.</p>
