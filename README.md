@@ -198,6 +198,7 @@ To help this process stick in memory we are going to repeat the process of the s
 * Re-clone the fork to your desktop.
 * Make a change to any file.
 * Run through the process of pushing to GitHub ( status, diff, add, commit, push ).
+* Blame the gods for all your problems.
 
 ## Step 2
 
