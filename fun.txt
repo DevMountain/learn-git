@@ -1,2 +1,4 @@
 “Hello world!” - said everyone, always
 "Bye, Felicia" - Ice Cube
+"Hi" - Me
+"Group Mini-Project" - Danny Strachan
