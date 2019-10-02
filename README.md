@@ -184,6 +184,8 @@ In this step, we will make changes to our clone and push them to GitHub.
 * Run through the steps outlined in `Step 3` of the first project ( status, diff, add, commit, push ).
   * Since you've cloned this repository, it is already pointing to your forked version. Therefore, you don't need to tell your computer where to push the code.
 
+  * Here is the sentence I have added on Class Day 1 :)
+
 ## Mini-Project 3: Group Project
 
 ## Step 1
@@ -216,7 +218,9 @@ Here is where things start to get different. Let's imagine we're working in grou
 
 ## Contributions
 
-If you see a problem or a typo, please fork, make the necessary changes, and create a pull request so we can review your changes and merge them into the master repo and branch.
+If you see a problem or a typo, please fork, make the necessary changes, and create a pull request so we can review your changes and merge them into the master repo and branch. 
+
+Here is a change to test this pull process.
 
 ## Copyright
 
