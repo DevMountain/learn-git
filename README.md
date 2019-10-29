@@ -1,7 +1,7 @@
 <img src="https://s3.amazonaws.com/devmountain/readme-logo.png" width="250" align="right">
 
 # Project Summary
-
+spk
 Practice using git + Github
 
 This project will consist of three separate mini-projects to get you comfortable with the kinds of activities you'll be using git for throughout the class. 
