@@ -1,2 +1,3 @@
 “Hello world!” - said everyone, always
+"This is a beautiful world" - Athul
 "Bye, Felicia" - Ice Cube
