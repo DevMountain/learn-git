@@ -1,2 +1,8 @@
 “Hello world!” - said everyone, always
 "Bye, Felicia" - Ice Cube
+This was just edited
+This is another test to see if it is saved.
+Learning the git process.
+Hope this is right?
+Testing 
+Hello World again

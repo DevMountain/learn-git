@@ -177,6 +177,8 @@ In this step, we will take the forked repository and clone it down to our machin
 
 In this step, we will make changes to our clone and push them to GitHub.
 
+This was just edited. 
+
 ### Instructions
 
 * Open the folder in your coding IDE.
