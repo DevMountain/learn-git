@@ -1,3 +1,6 @@
-**.sw*
+'**.sw*
+.DS_store
+index.js
+'**.sw*
 .DS_store
 index.js
