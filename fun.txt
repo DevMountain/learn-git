@@ -1,2 +1,3 @@
 “Hello world!” - said everyone, always
 "Bye, Felicia" - Ice Cube
+"today was a good day" -ice cube
