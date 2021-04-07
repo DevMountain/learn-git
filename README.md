@@ -40,7 +40,7 @@ In this step we will setup the origin for the repository. We'll do this by conne
 * Go into that folder.
 * Create a file called `myName.js` and add your name to that file.
 * Save the file and open a terminal window.
-* In your terminal window, `cd` to your `myProject` folder. O
+* In your terminal window, `cd` to your `myProject` folder.
 * Run `git init`. 
   * <details>
 
