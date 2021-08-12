@@ -2,9 +2,9 @@
 
 # Project Summary
 
-Practice using git + Github
+Practice using Git + GitHub
 
-This project will consist of three separate mini-projects to get you comfortable with the kinds of activities you'll be using git for throughout the class. 
+This project will consist of three separate mini-projects to get you comfortable with the kinds of activities you'll be using Git for throughout the class. 
 
 In the first mini-project, you'll be mimicking the steps you'll take when you first start your personal project. Creating a repository, linking it to your computer, then pushing those changes up to your GitHub.
 
@@ -18,7 +18,7 @@ Finally, in the last mini-project you'll be mimicking the steps you'll take duri
 
 ### Summary
 
-In this step we will create a repository on GitHUB.
+In this step we will create a repository on GitHub.
 
 ### Instructions
 
@@ -48,7 +48,7 @@ In this step we will setup the origin for the repository. We'll do this by conne
 
     <br />
 
-    You've just told your computer that you want git to watch the `myProject` folder and to keep track of any changes. This also allows us to run git commands inside of the folder. (Warning:  Be very careful to make sure you're in the right directory when you run `git init`!)
+    You've just told your computer that you want Git to watch the `myProject` folder and to keep track of any changes. This also allows us to run Git commands inside of the folder. (Warning:  Be very careful to make sure you're in the right directory when you run `git init`!)
 
     </details>
 * Run `git remote add origin [Repository URL goes here]`. You can get your URL from going to repository you made earlier in your browser and copying the address.
