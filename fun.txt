@@ -1,2 +1,5 @@
 “Hello world!” - said everyone, always
 "Bye, Felicia" - Ice Cube
+"Hello"
+"Hello World"
+HHHH
