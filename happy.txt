@@ -1,0 +1,7 @@
+“Hello world!” - said everyone, always
+"Bye, Felicia" - Ice Cube
+"Fuck you" - said Didi Hou
+And
+Some changes in the file
+New change
+Only change in branch firstbranch
