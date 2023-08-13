@@ -12,6 +12,8 @@ In the second mini-project, you'll be mimicking the steps you'll take with nearl
 
 Finally, in the last mini-project you'll be mimicking the steps you'll take during the group project portion. You'll fork your group's repo, link your computer with your fork, push changes to your GitHub, then make a 'Pull Request' into your group's repo.
 
+Just a new line
+
 ## Mini-Project 1: Personal Project
 
 ## Step 1
