@@ -1,0 +1,16 @@
+trigger:
+- main
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+# Log in to Azure
+- task: AzureCLI@2
+  inputs:
+    azureSubscription: 'azureuamisc' # Replace with your service connection
+    scriptType: 'bash'
+    scriptLocation: 'inlineScript'
+    inlineScript: |
+      echo "Creating Resource Group..."
+      az group create --name myResourceGroup --location eastus
