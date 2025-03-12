@@ -1,1 +1,2 @@
 Learning to merge
+"Leaning to use git diff"
