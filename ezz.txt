@@ -1,1 +1,3 @@
-"Only git diff allowed"
+"Only git diff allowed" 
+"""""""
+Learning git stash
